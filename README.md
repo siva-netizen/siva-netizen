@@ -8,15 +8,6 @@
 🚀 Actively developing projects in **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Science**.  
 
 ---
-
-## 🛠️ Technical Skills  
-- **Programming Languages:** Python, Java,  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, FastAPI , MERN 
-- **Databases:** MongoDB, MYSQL, Cassandra  
-- **Tools & Platforms:** Git, Docker, VS Code, Power BI  
-
----
-
 ## 🚀 Notable Projects  
 - 🏆 [**Restaurant Order Management System (MERN Stack)**](https://github.com/siva-netizen/restaurant_website_MERN)  
    ➤ Streamlined restaurant operations with QR-based ordering and real-time updates.  

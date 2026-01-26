@@ -1,6 +1,9 @@
-![Siva Sabarivel K M — AI & Full-Stack Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=240&section=header&text=Siva%20Sabarivel%20K%20M&fontSize=60&fontAlign=50&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer%20%20Designing%20Reliable%20Intelligence&descAlign=50&descAlignY=65&animation=fadeIn[text](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=240&section=header&text=Siva%20Sabarivel%20K%20M&fontSize=60&fontAlign=50&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer%20%20Designing%20Reliable%20Intelligence&descAlign=50&descAlignY=65&animation=fadeIn))
+<div style="background:linear-gradient(135deg,#1f1135 0%,#312e81 40%,#a855f7 100%);padding:28px;border-radius:24px;display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:18px;box-shadow:0 18px 45px rgba(124,58,237,0.35);">
+	<span style="font-family:'OCR A Std','OCR A Extended','Courier New',monospace;font-size:34px;letter-spacing:0.6rem;color:#ede9fe;text-transform:uppercase;">Siva Sabarivel K M</span>
+	<span style="font-family:'Space Grotesk','Segoe UI',sans-serif;font-size:16px;letter-spacing:0.1rem;color:#e9d5ff;background:rgba(15,23,42,0.55);padding:8px 18px;border-radius:999px;border:1px solid rgba(233,213,255,0.4);box-shadow:0 0 14px rgba(236,72,153,0.3) inset;">AIML Engineer and Student</span>
+</div>
 
-*Designing reliable intelligence from silicon to story while keeping humans in the loop.*
+<p align="center"><em>Designing reliable intelligence from silicon to story while keeping humans in the loop.</em></p>
 
 ---
 
@@ -44,8 +47,6 @@ Now I split time between research-y projects like an MQA→MLA architecture pack
 
 ### Extras & Live Signals
 ![Visitor Badge](https://komarev.com/ghpvc/?username=siva-netizen&amp;color=brightgreen)
-![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=siva_netizen&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=true)
-![Latest Blog Post](https://img.shields.io/badge/Latest%20Post-Building%20RAG%20Eval%20Harnesses-ff6f61?style=flat-square&amp;logo=rss)
 
 ---
 

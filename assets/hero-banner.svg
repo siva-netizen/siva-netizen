@@ -1,0 +1,17 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Siva Sabarivel K M — AIML Engineer and Student</title>
+  <desc id="desc">Gradient hero banner with name and tagline</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1135" />
+      <stop offset="50%" stop-color="#312e81" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="32" fill="url(#bg)" />
+  <g fill="#ede9fe" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="132" font-size="56" letter-spacing="6">SIVA SABARIVEL K M</text>
+    <text x="600" y="178" font-size="24" letter-spacing="4">AIML ENGINEER · STUDENT</text>
+    <text x="600" y="218" font-size="18" letter-spacing="1.5" fill="#cdb4fe">Designing reliable intelligence from silicon to story while keeping humans in the loop.</text>
+  </g>
+</svg>

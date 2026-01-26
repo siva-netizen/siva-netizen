@@ -1,9 +1,4 @@
-<div style="background:linear-gradient(135deg,#1f1135 0%,#312e81 40%,#a855f7 100%);padding:28px;border-radius:24px;display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:18px;box-shadow:0 18px 45px rgba(124,58,237,0.35);">
-	<span style="font-family:'OCR A Std','OCR A Extended','Courier New',monospace;font-size:34px;letter-spacing:0.6rem;color:#ede9fe;text-transform:uppercase;">Siva Sabarivel K M</span>
-	<span style="font-family:'Space Grotesk','Segoe UI',sans-serif;font-size:16px;letter-spacing:0.1rem;color:#e9d5ff;background:rgba(15,23,42,0.55);padding:8px 18px;border-radius:999px;border:1px solid rgba(233,213,255,0.4);box-shadow:0 0 14px rgba(236,72,153,0.3) inset;">AIML Engineer and Student</span>
-</div>
-
-<p align="center"><em>Designing reliable intelligence from silicon to story while keeping humans in the loop.</em></p>
+![Siva Sabarivel K M — AIML Engineer & Student](assets/hero-banner.svg)
 
 ---
 

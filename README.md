@@ -45,10 +45,4 @@ Now I split time between research-y projects like an MQA→MLA architecture pack
 
 ---
 
-### Connect
-- Portfolio: https://portfolio-rosy-psi-w8ewb0b1x5.vercel.app
-- Learning Notes: https://www.notion.so/siva-netizen
-- LinkedIn: https://www.linkedin.com/in/siva-sabarivel-46426026b/
-- Email: sivasabarivel008@gmail.com
-
 Let’s co-create tools that make augmented intelligence feel trustworthy, transparent, and kind.
